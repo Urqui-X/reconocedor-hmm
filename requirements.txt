@@ -1,0 +1,3 @@
+numpy>=1.24
+# opcional, solo para analyze_similarity.py:
+# matplotlib

@@ -1,0 +1,542 @@
+{
+ "a": [
+  {
+   "letter": "d",
+   "distance": 0.137,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (0.9 vs 1.8)"
+  },
+  {
+   "letter": "q",
+   "distance": 0.491,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (0.9 vs 1.6)"
+  },
+  {
+   "letter": "u",
+   "distance": 1.543,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «razon_ultimo/primero» (0.4 vs 1.0)"
+  }
+ ],
+ "b": [
+  {
+   "letter": "p",
+   "distance": 0.655,
+   "confusion_pct": 2.0,
+   "reason": "se separan sobre todo por «ultimo_dx» (0.0 vs 0.2)"
+  },
+  {
+   "letter": "h",
+   "distance": 1.406,
+   "confusion_pct": 0.0,
+   "reason": "forma y tamaño casi idénticos: solo cambia la posición de los giros"
+  },
+  {
+   "letter": "n",
+   "distance": 1.445,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.8 vs 1.0)"
+  }
+ ],
+ "c": [
+  {
+   "letter": "f",
+   "distance": 1.366,
+   "confusion_pct": 0.7,
+   "reason": "se separan sobre todo por «altura» (0.9 vs 1.7)"
+  },
+  {
+   "letter": "o",
+   "distance": 2.124,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «longitud» (2.3 vs 3.5)"
+  },
+  {
+   "letter": "a",
+   "distance": 2.236,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «longitud» (2.3 vs 3.6)"
+  }
+ ],
+ "d": [
+  {
+   "letter": "a",
+   "distance": 0.137,
+   "confusion_pct": 6.0,
+   "reason": "se separan sobre todo por «altura» (1.8 vs 0.9)"
+  },
+  {
+   "letter": "q",
+   "distance": 0.541,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «razon_ultimo/primero» (0.9 vs 0.2)"
+  },
+  {
+   "letter": "g",
+   "distance": 1.501,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.8 vs 1.6)"
+  }
+ ],
+ "e": [
+  {
+   "letter": "z",
+   "distance": 2.389,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ancho» (0.8 vs 1.0)"
+  },
+  {
+   "letter": "c",
+   "distance": 2.466,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «longitud» (3.1 vs 2.3)"
+  },
+  {
+   "letter": "d",
+   "distance": 2.486,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (0.9 vs 1.8)"
+  }
+ ],
+ "f": [
+  {
+   "letter": "c",
+   "distance": 1.366,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.7 vs 0.9)"
+  },
+  {
+   "letter": "t",
+   "distance": 2.068,
+   "confusion_pct": 0.0,
+   "reason": "forma y tamaño casi idénticos: solo cambia la posición de los giros"
+  },
+  {
+   "letter": "d",
+   "distance": 2.114,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «tamano_ultimo_trazo» (0.7 vs 1.9)"
+  }
+ ],
+ "g": [
+  {
+   "letter": "d",
+   "distance": 1.501,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.6 vs 1.8)"
+  },
+  {
+   "letter": "a",
+   "distance": 1.585,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.6 vs 0.9)"
+  },
+  {
+   "letter": "q",
+   "distance": 1.981,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «tamano_ultimo_trazo» (2.1 vs 0.6)"
+  }
+ ],
+ "h": [
+  {
+   "letter": "n",
+   "distance": 0.033,
+   "confusion_pct": 4.0,
+   "reason": "se separan sobre todo por «altura» (1.8 vs 1.0)"
+  },
+  {
+   "letter": "r",
+   "distance": 0.872,
+   "confusion_pct": 0.7,
+   "reason": "se separan sobre todo por «altura» (1.8 vs 1.1)"
+  },
+  {
+   "letter": "b",
+   "distance": 1.406,
+   "confusion_pct": 0.0,
+   "reason": "forma y tamaño casi idénticos: solo cambia la posición de los giros"
+  }
+ ],
+ "i": [
+  {
+   "letter": "l",
+   "distance": 0.665,
+   "confusion_pct": 0.7,
+   "reason": "se separan sobre todo por «longitud» (1.0 vs 2.1)"
+  },
+  {
+   "letter": "j",
+   "distance": 2.359,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ancho» (0.0 vs 0.5)"
+  },
+  {
+   "letter": "p",
+   "distance": 2.72,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ancho» (0.0 vs 0.6)"
+  }
+ ],
+ "j": [
+  {
+   "letter": "y",
+   "distance": 1.794,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «tamano_ultimo_trazo» (0.0 vs 2.2)"
+  },
+  {
+   "letter": "p",
+   "distance": 2.306,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «tamano_ultimo_trazo» (0.0 vs 1.5)"
+  },
+  {
+   "letter": "i",
+   "distance": 2.359,
+   "confusion_pct": 0.7,
+   "reason": "se separan sobre todo por «ancho» (0.5 vs 0.0)"
+  }
+ ],
+ "k": [
+  {
+   "letter": "l",
+   "distance": 1.984,
+   "confusion_pct": 0.7,
+   "reason": "se separan sobre todo por «ancho» (0.6 vs 0.2)"
+  },
+  {
+   "letter": "t",
+   "distance": 2.869,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «razon_ultimo/primero» (1.1 vs 0.3)"
+  },
+  {
+   "letter": "h",
+   "distance": 3.054,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «long_primer_trazo» (1.4 vs 4.0)"
+  }
+ ],
+ "l": [
+  {
+   "letter": "t",
+   "distance": 0.537,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ancho» (0.2 vs 0.8)"
+  },
+  {
+   "letter": "i",
+   "distance": 0.665,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «longitud» (2.1 vs 1.0)"
+  },
+  {
+   "letter": "k",
+   "distance": 1.984,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ancho» (0.2 vs 0.6)"
+  }
+ ],
+ "m": [
+  {
+   "letter": "ñ",
+   "distance": 1.274,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ancho» (1.2 vs 0.7)"
+  },
+  {
+   "letter": "h",
+   "distance": 1.496,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.0 vs 1.8)"
+  },
+  {
+   "letter": "b",
+   "distance": 1.682,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.0 vs 1.8)"
+  }
+ ],
+ "n": [
+  {
+   "letter": "h",
+   "distance": 0.033,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.0 vs 1.8)"
+  },
+  {
+   "letter": "r",
+   "distance": 0.927,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «longitud» (3.3 vs 2.5)"
+  },
+  {
+   "letter": "b",
+   "distance": 1.445,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.0 vs 1.8)"
+  }
+ ],
+ "ñ": [
+  {
+   "letter": "r",
+   "distance": 1.203,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «razon_ultimo/primero» (0.3 vs 1.0)"
+  },
+  {
+   "letter": "m",
+   "distance": 1.274,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ancho» (0.7 vs 1.2)"
+  },
+  {
+   "letter": "n",
+   "distance": 1.686,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «razon_ultimo/primero» (0.3 vs 1.0)"
+  }
+ ],
+ "o": [
+  {
+   "letter": "a",
+   "distance": 1.968,
+   "confusion_pct": 1.3,
+   "reason": "se separan sobre todo por «n_trazos» (1.1 vs 2.1)"
+  },
+  {
+   "letter": "g",
+   "distance": 1.985,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.0 vs 1.6)"
+  },
+  {
+   "letter": "s",
+   "distance": 1.991,
+   "confusion_pct": 0.7,
+   "reason": "se separan sobre todo por «longitud» (3.5 vs 2.8)"
+  }
+ ],
+ "p": [
+  {
+   "letter": "b",
+   "distance": 0.655,
+   "confusion_pct": 4.7,
+   "reason": "se separan sobre todo por «ultimo_dx» (0.2 vs 0.0)"
+  },
+  {
+   "letter": "h",
+   "distance": 1.574,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «long_primer_trazo» (1.9 vs 4.0)"
+  },
+  {
+   "letter": "g",
+   "distance": 2.008,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ultimo_dx» (0.2 vs 0.1)"
+  }
+ ],
+ "q": [
+  {
+   "letter": "a",
+   "distance": 0.491,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.6 vs 0.9)"
+  },
+  {
+   "letter": "d",
+   "distance": 0.541,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «razon_ultimo/primero» (0.2 vs 0.9)"
+  },
+  {
+   "letter": "g",
+   "distance": 1.981,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «tamano_ultimo_trazo» (0.6 vs 2.1)"
+  }
+ ],
+ "r": [
+  {
+   "letter": "h",
+   "distance": 0.872,
+   "confusion_pct": 2.0,
+   "reason": "se separan sobre todo por «altura» (1.1 vs 1.8)"
+  },
+  {
+   "letter": "n",
+   "distance": 0.927,
+   "confusion_pct": 3.3,
+   "reason": "se separan sobre todo por «longitud» (2.5 vs 3.3)"
+  },
+  {
+   "letter": "ñ",
+   "distance": 1.203,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «razon_ultimo/primero» (1.0 vs 0.3)"
+  }
+ ],
+ "s": [
+  {
+   "letter": "o",
+   "distance": 1.991,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «longitud» (2.8 vs 3.5)"
+  },
+  {
+   "letter": "g",
+   "distance": 2.056,
+   "confusion_pct": 0.7,
+   "reason": "se separan sobre todo por «altura» (0.9 vs 1.6)"
+  },
+  {
+   "letter": "d",
+   "distance": 2.262,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (0.9 vs 1.8)"
+  }
+ ],
+ "t": [
+  {
+   "letter": "l",
+   "distance": 0.537,
+   "confusion_pct": 2.0,
+   "reason": "se separan sobre todo por «ancho» (0.8 vs 0.2)"
+  },
+  {
+   "letter": "r",
+   "distance": 1.892,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ultimo_vs_tope» (-0.4 vs -0.0)"
+  },
+  {
+   "letter": "f",
+   "distance": 2.068,
+   "confusion_pct": 0.0,
+   "reason": "forma y tamaño casi idénticos: solo cambia la posición de los giros"
+  }
+ ],
+ "u": [
+  {
+   "letter": "d",
+   "distance": 1.531,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.0 vs 1.8)"
+  },
+  {
+   "letter": "a",
+   "distance": 1.543,
+   "confusion_pct": 2.7,
+   "reason": "se separan sobre todo por «razon_ultimo/primero» (1.0 vs 0.4)"
+  },
+  {
+   "letter": "h",
+   "distance": 1.799,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (1.0 vs 1.8)"
+  }
+ ],
+ "v": [
+  {
+   "letter": "x",
+   "distance": 1.009,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «n_trazos» (1.0 vs 2.0)"
+  },
+  {
+   "letter": "w",
+   "distance": 1.842,
+   "confusion_pct": 1.3,
+   "reason": "se separan sobre todo por «longitud» (2.5 vs 3.9)"
+  },
+  {
+   "letter": "r",
+   "distance": 2.14,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ancho» (0.9 vs 0.6)"
+  }
+ ],
+ "w": [
+  {
+   "letter": "v",
+   "distance": 1.842,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «longitud» (3.9 vs 2.5)"
+  },
+  {
+   "letter": "x",
+   "distance": 2.404,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ultimo_vs_tope» (-0.0 vs -0.4)"
+  },
+  {
+   "letter": "ñ",
+   "distance": 2.418,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «razon_ultimo/primero» (0.9 vs 0.3)"
+  }
+ ],
+ "x": [
+  {
+   "letter": "v",
+   "distance": 1.009,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «n_trazos» (2.0 vs 1.0)"
+  },
+  {
+   "letter": "y",
+   "distance": 2.344,
+   "confusion_pct": 53.3,
+   "reason": "se separan sobre todo por «razon_ultimo/primero» (1.0 vs 1.8)"
+  },
+  {
+   "letter": "w",
+   "distance": 2.404,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ultimo_vs_tope» (-0.4 vs -0.0)"
+  }
+ ],
+ "y": [
+  {
+   "letter": "j",
+   "distance": 1.794,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «tamano_ultimo_trazo» (2.2 vs 0.0)"
+  },
+  {
+   "letter": "p",
+   "distance": 2.028,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «ultimo_vs_tope» (-0.9 vs -0.3)"
+  },
+  {
+   "letter": "x",
+   "distance": 2.344,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «razon_ultimo/primero» (1.8 vs 1.0)"
+  }
+ ],
+ "z": [
+  {
+   "letter": "e",
+   "distance": 2.389,
+   "confusion_pct": 0.7,
+   "reason": "se separan sobre todo por «ancho» (1.0 vs 0.8)"
+  },
+  {
+   "letter": "f",
+   "distance": 3.693,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «tamano_ultimo_trazo» (1.9 vs 0.7)"
+  },
+  {
+   "letter": "d",
+   "distance": 4.366,
+   "confusion_pct": 0.0,
+   "reason": "se separan sobre todo por «altura» (0.9 vs 1.8)"
+  }
+ ]
+}
