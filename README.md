@@ -28,7 +28,7 @@ Si Tkinter falta en Linux: `sudo apt install python3-tk`.
 | `analyze_similarity.py` | Análisis de similitud entre trazos (figuras en `analisis/`) |
 | `LetterTemplates.py` | Plantillas de letras (iconos de respaldo del panel) |
 
-## Matemática (para el tablero)
+## Matemática
 - Un HMM por letra, izquierda-derecha (Bakis), N estados ≈ longitud media/3. Observaciones: 16 direcciones + 1 símbolo de levantar el lápiz.
 - Forward: α₁(i)=πᵢbᵢ(O₁); α_{t+1}(j)=[Σᵢ αₜ(i)aᵢⱼ]bⱼ(O_{t+1}); log P(O|λ)=Σ log cₜ.
 - Posterior: P(c|O₁:t)=softmax(log P(O₁:t|λc)/T), prior uniforme (T=2.5 solo calibra la confianza mostrada).
